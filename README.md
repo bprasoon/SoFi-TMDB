@@ -1,2 +1,0 @@
-# SoFi-TMDB
-TMDB assignment
